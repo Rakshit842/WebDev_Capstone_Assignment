@@ -1,7 +1,7 @@
 # Student Details
 - Name:- Rakshit Kamboj
 - Roll no. :- 2501060039
-- Program:- BCA(AI & DS)
+- Program:- BCA(AI & DS) Section-A
 - Sr no:- 12
 
 # Template Chosen 
